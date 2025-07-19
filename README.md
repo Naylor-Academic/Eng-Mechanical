@@ -2,18 +2,29 @@
 
 <a href="https://naylor-academic.github.io/Eng-Mechanical/" >Library</a>
 
-Na área mecânica, os níveis se referem aos diferentes graus de especialização e complexidade das tarefas que um profissional pode desempenhar. Esses níveis podem variar de acordo com a área de atuação (automóveis, indústria, aeronáutica, etc.) e podem ser definidos por certificações, experiência ou formação. 
+
 Níveis comuns na área mecânica:
+
 Mecânico de nível básico:
-Responsável por tarefas de manutenção e reparo simples, como substituição de peças e ajuste de máquinas.
+
+<p>Responsável por tarefas de manutenção e reparo simples, como substituição de peças e ajuste de máquinas.</p>
+
 Mecânico especializado:
-Atua em áreas específicas, como mecânica automotiva, industrial, aeronáutica, etc., com conhecimento mais aprofundado em diagnósticos e reparos complexos.
+
+<p>Atua em áreas específicas, como mecânica automotiva, industrial, aeronáutica, etc., com conhecimento mais aprofundado em diagnósticos e reparos complexos.</p>
+
 Técnico em Mecânica:
-Possui formação técnica e pode atuar em diversas áreas, como projetos, manutenção, controle de qualidade e instalação de equipamentos mecânicos.
+
+<p>Possui formação técnica e pode atuar em diversas áreas, como projetos, manutenção, controle de qualidade e instalação de equipamentos mecânicos.</p>
+
 Engenheiro Mecânico:
-Responsável por projetar, desenvolver e supervisionar sistemas e máquinas mecânicas, com formação superior e especializações.
+
+<p>Responsável por projetar, desenvolver e supervisionar sistemas e máquinas mecânicas, com formação superior e especializações.</p>
+
 Mecânico de nível avançado:
-Profissionais com ampla experiência e conhecimento técnico, capazes de resolver problemas complexos, desenvolver soluções inovadoras e liderar equipes. 
+
+<p>Profissionais com ampla experiência e conhecimento técnico, capazes de resolver problemas complexos, desenvolver soluções inovadoras e liderar equipes.</p>
+
 Exemplos de áreas de atuação e níveis:
 Mecânica Automotiva:
 Mecânico de automóveis (básico e especializado)
