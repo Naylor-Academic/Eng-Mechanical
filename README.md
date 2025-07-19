@@ -29,21 +29,21 @@ Exemplos de áreas de atuação e níveis:
 
 Mecânica Automotiva:
 
-Mecânico de automóveis (básico e especializado)
+<p>Mecânico de automóveis (básico e especializado)
 Técnico em Manutenção Automotiva
-Engenheiro Mecânico com especialização em Automobilística
+Engenheiro Mecânico com especialização em Automobilística</p>
 
 Mecânica Industrial:
 
-Mecânico de Manutenção Industrial
+<p>Mecânico de Manutenção Industrial
 Técnico em Manutenção de Máquinas Industriais
-Engenheiro Mecânico com especialização em Automação Industrial
+Engenheiro Mecânico com especialização em Automação Industrial</p>
 
 Mecânica Aeronáutica:
 
-Mecânico de Aeronaves
+<p>Mecânico de Aeronaves
 Técnico em Manutenção Aeronáutica
-Engenheiro Mecânico com especialização em Engenharia Aeronáutica 
+Engenheiro Mecânico com especialização em Engenharia Aeronáutica</p>
 
 
 Formação e Certificações:
