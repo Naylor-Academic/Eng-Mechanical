@@ -45,6 +45,3 @@ Mecânica Aeronáutica:
 Técnico em Manutenção Aeronáutica
 Engenheiro Mecânico com especialização em Engenharia Aeronáutica</p>
 
-
-Formação e Certificações:
-A formação na área mecânica pode variar desde cursos técnicos até graduações em Engenharia Mecânica, com especializações em áreas específicas. Além disso, existem diversas certificações que comprovam o nível de conhecimento e experiência do profissional. 
